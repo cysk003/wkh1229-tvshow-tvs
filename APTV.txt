@@ -1345,8 +1345,6 @@ CCTV17,https://live.v1.mk/api/sxg.php?id=CCTV17_4000
 CCTV4K,https://live.v1.mk/api/sxg.php?id=ys4Kcq_2000
 4K超高清电影,https://live.v1.mk/api/sxg.php?id=emdy4k_8000
 欢笑剧场4K,https://live.v1.mk/api/sxg.php?id=hxjc-4k_8000
-凤凰中文,https://live.v1.mk/api/sxg.php?id=test1_4000
-凤凰资讯,https://live.v1.mk/api/sxg.php?id=test2_4000
 安徽卫视,https://live.v1.mk/api/sxg.php?id=ahwsH265_4000
 北京卫视,https://live.v1.mk/api/sxg.php?id=bjwsH265_4000
 兵团卫视,https://live.v1.mk/api/sxg.php?id=btws_4000
@@ -1790,3 +1788,5 @@ CHC高清电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/play
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 凤凰资讯,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+凤凰中文,https://live.v1.mk/api/sxg.php?id=test1_4000
+凤凰资讯,https://live.v1.mk/api/sxg.php?id=test2_4000
