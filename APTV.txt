@@ -1043,9 +1043,6 @@ CHC高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 CHC动作电影,http://live.aptvapp.com/sxg.php?id=wqCHCdzdyH265_4000
 CHC高清电影,http://live.aptvapp.com/sxg.php?id=lnwsCHC-HDH265_4000
 CHC家庭影院,http://live.aptvapp.com/sxg.php?id=jbtygqCHCjtyyH265_4000
-CHC高清电影,https://live.v1.mk/api/fjgd.php?id=chcgq
-CHC动作电影,https://live.v1.mk/api/fjgd.php?id=chcdz
-CHC家庭影院,https://live.v1.mk/api/fjgd.php?id=chcjt
 运城频道,#genre#
 运城新闻综合,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8?zshanxd
 运城公共频道,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8?zshanxd
@@ -1062,8 +1059,6 @@ CHC家庭影院,https://live.v1.mk/api/fjgd.php?id=chcjt
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 凤凰中文,https://live.v1.mk/api/sxg.php?id=test1_4000
 凤凰资讯,https://live.v1.mk/api/sxg.php?id=test2_4000
-凤凰中文,https://live.v1.mk/api/fjgd.php?id=fhzw
-凤凰资讯,https://live.v1.mk/api/fjgd.php?id=fhzx
 凤凰中文,http://live.aptvapp.com/sxg.php?id=test1_4000
 凤凰资讯,http://live.aptvapp.com/sxg.php?id=test2_4000
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
