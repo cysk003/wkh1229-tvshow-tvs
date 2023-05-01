@@ -23,26 +23,6 @@
       "ext": "http://饭太硬.ga/x/json/alist.json"
     },
     {
-      "key": "csp_Bili",
-      "name": "🅱哔哔┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://饭太硬.ga/x/json/bilibili.json"
-    },
-    {
-      "key": "csp_Biliych",
-      "name": "🅱哔哔┃演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://饭太硬.ga/x/json/biliych.json"
-    },
-    {
       "key": "csp_WoGG",
       "name": "👽玩偶哥哥┃4K",
       "type": 3,
@@ -1052,7 +1032,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://jihulab.com/wkh1229/tvshow/-/raw/main/APTV.txt",
+      "url": "https://fastly.jsdelivr.net/gh/wkh1229/tvshow@main/APTV.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
