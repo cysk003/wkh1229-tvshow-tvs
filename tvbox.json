@@ -1033,7 +1033,9 @@
       "name": "live",
       "type": 0,
       "url": "https://jihulab.com/wkh1229/tvshow/-/raw/main/APTV.txt",
-      "playerType": 1
+      "playerType": 1,
+      "epg": 0,
+      "logo": 0
     }
   ],
   "flags": [
